@@ -19,6 +19,7 @@
 		389469E2F838C0C8A178B119 /* Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38946F79AAA229C3ABFB91C2 /* Controller.swift */; };
 		38946ABCDF6B8D6B4E571BDD /* RequestModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38946CA3A2AB716F04FF99F5 /* RequestModel.swift */; };
 		38946B84984CDC6FBC4DFBC7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38946BFE954FF1103E3B7794 /* ViewController.swift */; };
+		38946BB50DBD70EE802E4E9D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3894625600FCE5A08787685A /* .gitignore */; };
 		38946D9E04FCFC388BE8BAD6 /* Receiver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38946FF65FEFF7AED6BB16DC /* Receiver.swift */; };
 		38946F10FFAA6CD44495896B /* Responder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38946A6002EA2BF4ADD99C1B /* Responder.swift */; };
 /* End PBXBuildFile section */
@@ -36,6 +37,7 @@
 /* Begin PBXFileReference section */
 		38946121B336C841BE22199C /* Stem Skills.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Stem Skills.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		389461EF757FEE7AAA47B12C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3894625600FCE5A08787685A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 		389463EAA2FFC872A01B8F72 /* Response.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		3894645E410A8EDB420C61B4 /* DataGateway.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataGateway.swift; sourceTree = "<group>"; };
 		3894660FE21567965E951045 /* Stem_SkillsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stem_SkillsTests.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				389465D7B343D97B028EC435 /* Products */,
 				38946429864B03D467933304 /* Stem Skills */,
 				38946FED0AD3AD6ECE70A3F6 /* Stem SkillsTests */,
+				3894625600FCE5A08787685A /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -273,6 +276,7 @@
 				3894682BD01839E14FC9EAF8 /* Assets.xcassets in Resources */,
 				3894640C1AC143BD875A3C7E /* LaunchScreen.storyboard in Resources */,
 				38946763F99384743EA7F2A6 /* Main.storyboard in Resources */,
+				38946BB50DBD70EE802E4E9D /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
